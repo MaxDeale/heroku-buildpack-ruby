@@ -62,9 +62,6 @@ require "language_pack/rails4"
 require "language_pack/rails41"
 require "language_pack/rails42"
 require "language_pack/rails5"
-<<<<<<< HEAD
-require "language_pack/rails6"
-=======
 require "language_pack/rails51"
->>>>>>> 1019fcf... use new Rails51 language pack
+require "language_pack/rails6"
 require "language_pack/no_lockfile"
